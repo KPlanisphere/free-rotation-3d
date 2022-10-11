@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1617746709 source:d:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1426374928 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426374928 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1617746449 source:d:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.cpp
+	"3D_bib.h"
+
+1587415745 d:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1632780879 source:j:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1587415745 j:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1632780232 source:j:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.cpp
+	"3D_bib.h"
+
+1632776632 source:l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.cpp
+	"3D_bib.h"
+
+1587412145 l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1648759214 source:l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_libre - ejemploalumnos_new\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1648759715 source:l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_paralela - ejemploalumnos_new\3d_bib.cpp
+	"3D_bib.h"
+
+1587412145 l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_paralela - ejemploalumnos_new\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1648759515 source:l:\itesm\graficas comp\presentaciones\opengl\8 manejo perspectivas\rotacion3d_paralela - ejemploalumnos_new\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1664909964 source:a:\principal\escritorio\rotacion3d_paralela - ejemploalumnos_new\3d_bib.cpp
+	"3D_bib.h"
+
+1587412145 a:\principal\escritorio\rotacion3d_paralela - ejemploalumnos_new\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1664912373 source:a:\principal\escritorio\rotacion3d_paralela - ejemploalumnos_new\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1664909964 source:a:\principal\escritorio\tarea4_jesushuertaaguilar\3d_bib.cpp
+	"3D_bib.h"
+
+1587412145 a:\principal\escritorio\tarea4_jesushuertaaguilar\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1664921612 source:a:\principal\escritorio\tarea4_jesushuertaaguilar\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1665381383 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 4\tarea4_jesushuertaaguilar\3d_bib.cpp
+	"3D_bib.h"
+	<cmath>
+
+1665381383 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 4\tarea4_jesushuertaaguilar\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1665381383 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 4\tarea4_jesushuertaaguilar\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1665463853 source:a:\principal\escritorio\tarea5_jesushuertaaguilar\3d_bib.cpp
+	"3D_bib.h"
+	<cmath>
+	<iostream>
+
+1665381383 a:\principal\escritorio\tarea5_jesushuertaaguilar\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1665464175 source:a:\principal\escritorio\tarea5_jesushuertaaguilar\main.cpp
+	"3D_bib.h"
+	<GL/glut.h>
+
+1665463853 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 5\tarea5_jesushuertaaguilar\3d_bib.cpp
+	"3D_bib.h"
+	<cmath>
+	<iostream>
+
+1665381383 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 5\tarea5_jesushuertaaguilar\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1666795983 source:a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 5\tarea5_jesushuertaaguilar\main.cpp
+	"3D_bib.h"
+	"Stage.h"
+	<GL/glut.h>
+
+1666796276 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 5\tarea5_jesushuertaaguilar\include\stage.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+
+1665381383 a:\principal\escritorio\buap\facultad de ciencias de la computación\semestre 4\graficacion\tarea 5\tarea5_jesushuertaaguilar\include\3d_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
